@@ -34,3 +34,11 @@ button_area_3.pack(pady=10)
 # Run the Tkinter event loop
 root.mainloop()
 ```
+## About me 
+My Interests:
+  -Text-based games
+  -Cars
+  -Lifting
+Websites to look at:
+  -hackthebox.com
+  -tryhackme.com
