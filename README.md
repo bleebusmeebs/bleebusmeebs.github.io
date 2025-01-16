@@ -35,10 +35,10 @@ button_area_3.pack(pady=10)
 root.mainloop()
 ```
 ## About me 
-My Interests:
+### My Interests:
   -Text-based games
   -Cars
   -Lifting
-Websites to look at:
+### Websites to look at:
   -hackthebox.com
   -tryhackme.com
